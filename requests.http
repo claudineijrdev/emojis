@@ -1,0 +1,4 @@
+GET http://localhost:9000/search?q=pig
+
+###
+GET http://localhost:9000/search?q=cow
